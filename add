@@ -1,0 +1,8 @@
+#includde<stdio.h>
+#include<conio.h>
+void main()
+{
+  int a=8,b=9;
+printf("sum is: %d",a+b);
+getch();
+}
